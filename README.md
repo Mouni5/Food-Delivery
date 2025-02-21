@@ -22,6 +22,10 @@ Node.js
 Create a MongoDB Atlass Account
 
 
+# Screenshots
+
+![Home page](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Adding%20items%20to%20cart%20with%20%2B%20Symbol.png)
+
 
 
 
