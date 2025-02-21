@@ -22,9 +22,7 @@ Node.js
 Create a MongoDB Atlass Account
 
 
-# Screenshots 
 
-## Home Page
-![Home Page] ()
+
 
 
