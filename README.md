@@ -25,7 +25,9 @@ Create a MongoDB Atlass Account
 # Screenshots
 
 
-[Home Page]()
+![Home Page](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Home%20Page.png)
+
+![Menu]()
 ![Adding Items](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Adding%20items%20to%20cart%20with%20%2B%20Symbol.png)
 
 
