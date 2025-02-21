@@ -24,19 +24,25 @@ Create a MongoDB Atlass Account
 
 # Screenshots
 
-
+# Home Page
 ![Home Page](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Home%20Page.png)
 
+# Menu
 ![Menu](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Menu.png)
 
+# Adding items to the Cart
 ![Adding Items](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Adding%20items%20to%20cart%20with%20%2B%20Symbol.png)
 
+# Cart Items
 ![Cart Items](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Cart%20Items.png)
 
+# Payment
 ![Payment](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Payment%201.png)
 
+# Tracking
 ![Tracking](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Tracking%20order.png)
 
+# Admin Page
 ![Admin page](https://github.com/Mouni5/Food-Delivery/blob/main/Screenshots/Admin.png)
 
 
